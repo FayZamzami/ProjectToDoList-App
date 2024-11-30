@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1057082943777",
+    "firebase_url": "https://projectpraktodolist-default-rtdb.firebaseio.com",
+    "project_id": "projectpraktodolist",
+    "storage_bucket": "projectpraktodolist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057082943777:android:f1fc616ec9d6217344b660",
+        "android_client_info": {
+          "package_name": "com.example.projectprak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rKnugn8tvafzNhKlbUrY3BrebPodsvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
